@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Small Chat</string>
+
+    <string name="backspace">⌫</string>
+
+    <string name="code_received">Code not receiver?</string>
+
+    <string name="code_sent">Code sent</string>
+
+    <string name="profile_create">Enter a picture for first name, last name and profile</string>
+
+    <string name="invalid_code">Invalid code!</string>
+
+    <string name="choose">Choose the country</string>
+
+    <string name="invalid">Invalid country code</string>
+
+    <string name="description_verification">We sent you an SMS code</string>
+
+    <string name="description_welcome">Fill the form to become our guest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

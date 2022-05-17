@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "941912667411",
+    "firebase_url": "https://small-chat-14742-default-rtdb.firebaseio.com",
+    "project_id": "small-chat-14742",
+    "storage_bucket": "small-chat-14742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941912667411:android:c21361f73c7caf0f93d6e6",
+        "android_client_info": {
+          "package_name": "com.iraimjanov.smallchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941912667411-3ue08q10aiq4ha8vqm493jc5m91q1b1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iraimjanov.smallchat",
+            "certificate_hash": "57760b707f1210cb3c95332f0a99453fedb030d4"
+          }
+        },
+        {
+          "client_id": "941912667411-ajskesblrkqibc2v2pfcp1k9u5i6quh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iraimjanov.smallchat",
+            "certificate_hash": "c782991095ce79ec5692eedf441cfcb5617c150f"
+          }
+        },
+        {
+          "client_id": "941912667411-cohp2ppvd9gd8289ot739v5hmfk1hsau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvD0xUlx0hxcx7ZCf_wPXLi3Ti2AWo7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941912667411-cohp2ppvd9gd8289ot739v5hmfk1hsau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
